@@ -30,7 +30,10 @@ body{
    -webkit-flex-flow: row wrap;
    flex-flow: row wrap;
 }
-
+body{
+   flex-flow: row;
+   
+}
 
 
 
